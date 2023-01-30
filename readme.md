@@ -10,3 +10,7 @@ Keep track of income and expenses. Add and remove items and save to local storag
 - Add new transation and reflect in total
 - Delete items from DOM
 - Persist to local storage
+
+#this project part of 20 Web Projects With Vanilla JavaScript by Brad Traversy
+
+
